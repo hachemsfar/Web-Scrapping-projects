@@ -1,4 +1,4 @@
-# Web-Scrapping-projects
+# Web Scrapping projects
 
 Extracting data from websites by using differents techniques:
 
