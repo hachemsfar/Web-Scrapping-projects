@@ -3,8 +3,7 @@
 Extracting data from websites by using differents techniques:
 
 1/Beautiful Soap Library:
-  -Extracting differents information(English name,Jap name,Ranking,Episodes Number...) about the top 14k animes by using "myanimelist.net/topanime.php" website and arrange them in one dataframe.
-  
+-Extracting differents information(English name,Jap name,Ranking,Episodes Number...) about the top 14k animes by using "myanimelist.net/topanime.php" website and arrange them in one dataframe.
   -Extracting Country name &amp; passport power for all countries from "passportindex.org/byRank.php" website. Then, plot this data on map using Plotly library. 
   
 2/Scrapy Library: 
